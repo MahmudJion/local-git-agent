@@ -1,6 +1,6 @@
 # local-git-agent
 
-**Local Git Agent** is an AI-powered tool to automate local Git repository tasks.  
+**Local Git Agent** is an AI-powered tool to automate local Git repository tasks.
 It simplifies your workflow by generating and applying code based on task lists, staging changes, and preparing commits for manual review and publishing.
 
 ## Features
